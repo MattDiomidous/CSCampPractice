@@ -1,0 +1,14 @@
+a {
+  text-align: center;
+  color: black;
+  padding: 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: green;
+}
+
+header{
+  text-align: center;
+}
